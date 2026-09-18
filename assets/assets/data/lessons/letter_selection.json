@@ -1,0 +1,542 @@
+{
+  "id": "lesson_letter_selection",
+  "title": "Letter Identification",
+  "order": 2,
+  "sections": [
+    {
+      "id": "section_vowel_selection",
+      "title": "Vowel Sounds",
+      "tasks": [
+        {
+          "id": "ls_01",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ੳ",
+            "distractorLetters": [
+              "ਅ",
+              "ੲ",
+              "ਸ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ura.mp3"
+          }
+        },
+        {
+          "id": "ls_02",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਅ",
+            "distractorLetters": [
+              "ੳ",
+              "ੲ",
+              "ਹ"
+            ],
+            "audioFile": "audio/lessons/alphabets/aira.mp3"
+          }
+        },
+        {
+          "id": "ls_03",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ੲ",
+            "distractorLetters": [
+              "ੳ",
+              "ਸ",
+              "ਹ"
+            ],
+            "audioFile": "audio/lessons/alphabets/iri.mp3"
+          }
+        },
+        {
+          "id": "ls_04",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਸ",
+            "distractorLetters": [
+              "ਅ",
+              "ੲ",
+              "ਹ"
+            ],
+            "audioFile": "audio/lessons/alphabets/sa.mp3"
+          }
+        },
+        {
+          "id": "ls_05",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਹ",
+            "distractorLetters": [
+              "ੳ",
+              "ਅ",
+              "ਸ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ha.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section_guttural_selection",
+      "title": "Guttural Sounds",
+      "tasks": [
+        {
+          "id": "ls_06",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਕ",
+            "distractorLetters": [
+              "ਖ",
+              "ਗ",
+              "ਘ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ka.mp3"
+          }
+        },
+        {
+          "id": "ls_07",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਖ",
+            "distractorLetters": [
+              "ਕ",
+              "ਗ",
+              "ਙ"
+            ],
+            "audioFile": "audio/lessons/alphabets/kha.mp3"
+          }
+        },
+        {
+          "id": "ls_08",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਗ",
+            "distractorLetters": [
+              "ਕ",
+              "ਖ",
+              "ਘ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ga.mp3"
+          }
+        },
+        {
+          "id": "ls_09",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਘ",
+            "distractorLetters": [
+              "ਖ",
+              "ਗ",
+              "ਙ"
+            ],
+            "audioFile": "audio/lessons/alphabets/gha.mp3"
+          }
+        },
+        {
+          "id": "ls_10",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਙ",
+            "distractorLetters": [
+              "ਕ",
+              "ਗ",
+              "ਘ"
+            ],
+            "audioFile": "audio/lessons/alphabets/nga.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section_palatal_selection",
+      "title": "Palatal Sounds",
+      "tasks": [
+        {
+          "id": "ls_11",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਚ",
+            "distractorLetters": [
+              "ਛ",
+              "ਜ",
+              "ਝ"
+            ],
+            "audioFile": "audio/lessons/alphabets/cha.mp3"
+          }
+        },
+        {
+          "id": "ls_12",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਛ",
+            "distractorLetters": [
+              "ਚ",
+              "ਜ",
+              "ਞ"
+            ],
+            "audioFile": "audio/lessons/alphabets/chha.mp3"
+          }
+        },
+        {
+          "id": "ls_13",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਜ",
+            "distractorLetters": [
+              "ਚ",
+              "ਛ",
+              "ਝ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ja.mp3"
+          }
+        },
+        {
+          "id": "ls_14",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਝ",
+            "distractorLetters": [
+              "ਛ",
+              "ਜ",
+              "ਞ"
+            ],
+            "audioFile": "audio/lessons/alphabets/jha.mp3"
+          }
+        },
+        {
+          "id": "ls_15",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਞ",
+            "distractorLetters": [
+              "ਚ",
+              "ਜ",
+              "ਝ"
+            ],
+            "audioFile": "audio/lessons/alphabets/nya.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section_retroflex_selection",
+      "title": "Retroflex Sounds",
+      "tasks": [
+        {
+          "id": "ls_16",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਟ",
+            "distractorLetters": [
+              "ਠ",
+              "ਡ",
+              "ਢ"
+            ],
+            "audioFile": "audio/lessons/alphabets/tta.mp3"
+          }
+        },
+        {
+          "id": "ls_17",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਠ",
+            "distractorLetters": [
+              "ਟ",
+              "ਡ",
+              "ਣ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ttha.mp3"
+          }
+        },
+        {
+          "id": "ls_18",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਡ",
+            "distractorLetters": [
+              "ਟ",
+              "ਠ",
+              "ਢ"
+            ],
+            "audioFile": "audio/lessons/alphabets/dda.mp3"
+          }
+        },
+        {
+          "id": "ls_19",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਢ",
+            "distractorLetters": [
+              "ਠ",
+              "ਡ",
+              "ਣ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ddha.mp3"
+          }
+        },
+        {
+          "id": "ls_20",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਣ",
+            "distractorLetters": [
+              "ਟ",
+              "ਡ",
+              "ਢ"
+            ],
+            "audioFile": "audio/lessons/alphabets/nna.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section_dental_selection",
+      "title": "Dental Sounds",
+      "tasks": [
+        {
+          "id": "ls_21",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਤ",
+            "distractorLetters": [
+              "ਥ",
+              "ਦ",
+              "ਧ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ta.mp3"
+          }
+        },
+        {
+          "id": "ls_22",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਥ",
+            "distractorLetters": [
+              "ਤ",
+              "ਦ",
+              "ਨ"
+            ],
+            "audioFile": "audio/lessons/alphabets/tha.mp3"
+          }
+        },
+        {
+          "id": "ls_23",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਦ",
+            "distractorLetters": [
+              "ਤ",
+              "ਥ",
+              "ਧ"
+            ],
+            "audioFile": "audio/lessons/alphabets/da.mp3"
+          }
+        },
+        {
+          "id": "ls_24",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਧ",
+            "distractorLetters": [
+              "ਥ",
+              "ਦ",
+              "ਨ"
+            ],
+            "audioFile": "audio/lessons/alphabets/dha.mp3"
+          }
+        },
+        {
+          "id": "ls_25",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਨ",
+            "distractorLetters": [
+              "ਤ",
+              "ਦ",
+              "ਧ"
+            ],
+            "audioFile": "audio/lessons/alphabets/na.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section_labial_selection",
+      "title": "Labial Sounds",
+      "tasks": [
+        {
+          "id": "ls_26",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਪ",
+            "distractorLetters": [
+              "ਫ",
+              "ਬ",
+              "ਭ"
+            ],
+            "audioFile": "audio/lessons/alphabets/pa.mp3"
+          }
+        },
+        {
+          "id": "ls_27",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਫ",
+            "distractorLetters": [
+              "ਪ",
+              "ਬ",
+              "ਮ"
+            ],
+            "audioFile": "audio/lessons/alphabets/pha.mp3"
+          }
+        },
+        {
+          "id": "ls_28",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਬ",
+            "distractorLetters": [
+              "ਪ",
+              "ਫ",
+              "ਭ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ba.mp3"
+          }
+        },
+        {
+          "id": "ls_29",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਭ",
+            "distractorLetters": [
+              "ਫ",
+              "ਬ",
+              "ਮ"
+            ],
+            "audioFile": "audio/lessons/alphabets/bha.mp3"
+          }
+        },
+        {
+          "id": "ls_30",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਮ",
+            "distractorLetters": [
+              "ਪ",
+              "ਬ",
+              "ਭ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ma.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section_semivowel_selection",
+      "title": "Semivowels",
+      "tasks": [
+        {
+          "id": "ls_31",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਯ",
+            "distractorLetters": [
+              "ਰ",
+              "ਲ",
+              "ਵ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ya.mp3"
+          }
+        },
+        {
+          "id": "ls_32",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਰ",
+            "distractorLetters": [
+              "ਯ",
+              "ਲ",
+              "ੜ"
+            ],
+            "audioFile": "audio/lessons/alphabets/ra.mp3"
+          }
+        },
+        {
+          "id": "ls_33",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਲ",
+            "distractorLetters": [
+              "ਰ",
+              "ਵ",
+              "ੜ"
+            ],
+            "audioFile": "audio/lessons/alphabets/la.mp3"
+          }
+        },
+        {
+          "id": "ls_34",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ਵ",
+            "distractorLetters": [
+              "ਯ",
+              "ਲ",
+              "ੜ"
+            ],
+            "audioFile": "audio/lessons/alphabets/va.mp3"
+          }
+        },
+        {
+          "id": "ls_35",
+          "type": "letterSelection",
+          "pointsAwarded": 10,
+          "content": {
+            "correctLetter": "ੜ",
+            "distractorLetters": [
+              "ਰ",
+              "ਲ",
+              "ਵ"
+            ],
+            "audioFile": "audio/lessons/alphabets/rra.mp3"
+          }
+        }
+      ]
+    }
+  ],
+  "shuffleSections": true,
+  "shuffleTasks": true,
+  "visible": true
+}
